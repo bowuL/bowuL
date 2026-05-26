@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bowuL
 - 👀 I’m interested in basketball,music,programming
 - 🌱 I’m currently learning new techonology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ...
 
 <!---
